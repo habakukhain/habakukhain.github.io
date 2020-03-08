@@ -3,7 +3,7 @@ layout: post
 title: "Hello World!"
 author: "Habakuk Hain"
 categories: journal
-tags: []
+tags: [hello]
 image: mountains.jpg
 ---
 
