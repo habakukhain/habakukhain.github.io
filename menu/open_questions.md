@@ -15,3 +15,5 @@ Interestingly, there is a [study](https://pubs.acs.org/doi/10.1021/acschemneuro.
 The fact that they seemingly do the oppsitite thing is surprising, taking into account that both seem to work mainly on the same targets, namely dopamine transporters. If the effect was only one of altered motivation or a different effect of dopamine, we would expect them to do the same thing. One putative mechanism for the difference is the impact on neural lipid metabolism. With cocaine, there is an accumulation of lipids of cylindrical shape and with methylphenidate, lipids of a conical shape accumulate. Since a conical shape is beneficial to the energy balance of membrane curvature, exocytosis might be *easier* if your brain has been treated with methylphenidate.
 
 Both stories seem to agree nicely with the hypothesis that easier release of neurotransmitter improves cognitive function. I'd be really interested to read more about this. If you come across any technical articles describing similar effects or have any idea, how to test this in an experimental way, please contact me.
+
+### Why do autocrats try to get huge sport events to take place in their country?
