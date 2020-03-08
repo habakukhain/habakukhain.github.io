@@ -6,3 +6,6 @@ categories: journal
 tags: []
 image: mountains.jpg
 ---
+
+
+This is a placeholder.
