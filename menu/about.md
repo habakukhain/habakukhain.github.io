@@ -1,9 +1,9 @@
 ---
 layout: page
-title: H Blog
+title: Some Blog title
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+This is a place where I sort my thoughts and write about, comment on and share things that seem worthwile to me. I am ususally interested in neuroscience, public health and effective altruism. 
 
 ### Getting Started
 
