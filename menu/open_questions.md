@@ -19,5 +19,7 @@ I'd be really interested to read more about this. If you come across any technic
 ### Why are autocrats trying to get huge sport events to take place in their country
 
 Autocrats seem to be really interested in hosting huge sport events (e.g. Olympics, FIFA world cup, etc). Why is this?
+
 In my understanding, these things cost a lot of money, fail to improve the economy sustainably, are ususally pretty unpopular with the locals and give a lot of publicity to everybody discovering something bad or terrible about the government. 
+
 Is prestige really so impotant to autocrats? Are huge events and the associated infrastructure spending a good way to bribe powerful political and economic players? Am I wrong about local economic effects?
