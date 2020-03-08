@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Open Questions
+comments: true
 ---
 
 ### Is human intelligence linked to global neurotransmitter release probability?
