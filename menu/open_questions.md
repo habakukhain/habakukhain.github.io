@@ -16,4 +16,4 @@ The fact that they seemingly do the oppsitite thing is surprising, taking into a
 
 Both stories seem to agree nicely with the hypothesis that easier release of neurotransmitter improves cognitive function. I'd be really interested to read more about this. If you come across any technical articles describing similar effects or have any idea, how to test this in an experimental way, please contact me.
 
-### Why do autocrats try to get huge sport events to take place in their country?
+### Why are autocrats trying to get huge sport events to take place in their country?
