@@ -15,6 +15,8 @@ The fact that they seemingly do the oppsitite thing is surprising, taking into a
 
 Both stories seem to agree nicely with the hypothesis that easier release of neurotransmitter improves cognitive function, but they are far from establishing a realistic model or even showing convincingly that increased release probability is indeed the only explanation for these observations.
 
+Next to the fact that these findings are not conclusive, I am also uncertain how they fit into a [critical brain model](https://en.wikipedia.org/wiki/Critical_brain_hypothesis), since just randomly increasing release probability should send the brain into permanent seizures, which is why we use [Ca<sub>v</sub> 2.1 inhibitors](https://en.wikipedia.org/wiki/Gabapentin#Pharmacodynamics)  as anti-seizure medication
+
 I'd be really interested to read more about this. If you come across any technical articles describing similar effects or have any idea, how to test this in an experimental way, please contact me.
 
 ### Why are autocrats trying to get huge sport events to take place in their country
