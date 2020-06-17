@@ -32,8 +32,7 @@
     }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        {% include google-analytics.html %}
-        {% include disqus.html %}
+
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
