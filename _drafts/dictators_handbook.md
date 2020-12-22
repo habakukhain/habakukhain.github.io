@@ -62,13 +62,9 @@ This is also directly relevant for the question of *how much* resources a given 
 
 They make five rules, illustrating these kinds of incentives:
 >(i) Keep your winning coalition as small as possible
-
 >(ii) Keep your nominal selectorate as large as possible
-
 >(iii) Control the flow of revenue
-
 >(iv) Pay your key supporters just enough to keep them loyal
-
 >(v) Don't take money out of your supporters' pockets to make the people's lives better
 
 ### Key claim(s)
