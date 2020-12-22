@@ -79,7 +79,7 @@ Some great ones here:
 
 (i) Louis XIV on the point of having a large pool of *interchangables*. Louis XIV ruled >70 years. Establishing new aristocrats (*noblesse de robe*) threatening old aristocrats (*noblesse d'e'pe'e*). Expanding the role of commoners in the civil service and military. Forcing the aristocrats to stay at the cort, removing them from their own power structures and resources at home. 
 
-(ii) Harvey Milk on the point of the significance of the size of the electorate in democracies. Harvey Milk (first openly gay office holder in the modern West, elected to serve on the San Francisco city council in 1977) only won after a change in election laws, resulting in the election of council members district-wise and not city-wise. He had lost the election two years earlier -- albeit getting 10 times as many votes. In his district, in the end ~5000 sufficed to give him the council position. He was assassined two years later.
+(ii) Harvey Milk on the point of the significance of the size of the electorate in democracies. Harvey Milk (first openly gay office holder in the modern West, elected to serve on the San Francisco city council in 1977) only won after a change in election laws, resulting in the election of council members district-wise and not city-wise. He had lost the election two years earlier -- albeit getting 10 times as many votes. In his district, in the end \~5000 sufficed to give him the council position. He was assassined two years later.
 
 (iii) Fidel Castro and Che Guevarra on the dangers of being a replacable supporter. After Che became too popular and strong of a figure in the Cuban post-revolutionary government, Fidel sent him to Bolivia, where Fidel cut off support, leading to Che being caputered and finally executed. This was not the sole fate of Che though, as Fidel had most of his revolutionary supporters exiled or executed not long after he had the power in Cuba. 
 
@@ -202,7 +202,7 @@ Once, she was finally fired, she was replaced with Mark Hurd, under whom HP perf
 
 (v) Bihar and how to secure mining rights. The Raja of Ramgarh, owner of most of the mining rights in Bihar, personally was responsible for a lot of electoral turmoil. He controlled such a large bloc of voters, that him switching parties meant the rise or fall of a given coalition. He used this privilege thouroughly, as he often changed parties, leading to changes in government in Bihar. He allegedly also used this tactic to have criminal charges against him dismissed.
 
-(vi) Afghanistan and how to buy an election. Apparently in 2010, votes in Afghanistan went for 5-6$ per vote. A rough fermi calculation yields: ~6.5 million voters (for presidential election 2014) * 1/2 (you need ~half of them to win) * 5.5$ =~ 18 million $ to elect the next president of Afghanistan. 
+(vi) Afghanistan and how to buy an election. Apparently in 2010, votes in Afghanistan went for 5-6$ per vote. A rough fermi calculation yields: \~6.5 million voters (for presidential election 2014) * 1/2 (you need \~half of them to win) * 5.5$ =\~ 18 million $ to elect the next president of Afghanistan. 
 
 ### Key passages
 
