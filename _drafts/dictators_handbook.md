@@ -147,7 +147,7 @@ A lot of great ones:
 
 (ix) Czar Nicholas II. and how to fight alcoholism. Czar Nicholas banned Vodka in 1917, because he thought it would hinder his war efforts. Apparently, this cut away a significant part of his revenue, as the vodka tax made up up to a third of his income. This loss of money made him unable to pay the army protecting the Winter Palace, leading to a cold rest of the winter for the Romanows in Yekatarinburg. 
 
-(x) Ben Bella and keeping your mouth shut. Ben Bella was leader of Algeria after the war of independence. One day he announced a meeting of the politburo a week later, announcing that he would get rid of most of his supporters. His supporters not happy about it, staged a coup and had a week to plan it.
+(x) Ben Bella and keeping your mouth shut. Ben Bella was leader of Algeria after the war of independence. One day he announced a meeting of the politburo a week later, with an attached agenda implying that he would get rid of most of his supporters. His supporters not happy about it, staged a coup and had a week to plan it.
 
 ### Key passages
 
