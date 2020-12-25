@@ -217,3 +217,67 @@ Again on bloc voting:
 
 On differential survival densities between autocrats and democrats.
 >Although autocrats survive longer, they find surviving the initial period in office particularly difficult. During their first half year they are nearly twice as likely to be deposed as their democratic counterparts. However, if they survive those first tubulent months, then they have a much better chance of staying in power than democrats. Those early months are difficults because the have not yet worked oyt where the money is, making them unreliable sources of wealth for their coalition, and they have yet to work out whose support they really need and who they can dump from the transitional coalition. But once autocrats have reshaped and purged their supporters, survival becomes easiert. Democrats, in contrast, are constantly engaged in a battle for the best policy ideas to keep their large constituencies happy. As a result, although democrats survive the ealry months in office more easily (they get a honeymoon), the perpetual quest for good policy takes a toll, such that only 4 percent of democrats survive in office for ten or more years. Nearly three times as many autocrats manage to accomplish this feat, 11 percent. 
+
+## Chapter 4: Steal from the poor, give to the rich
+
+A bunch of different ideas regarding fund-raising and taxation in autocratic regimes are discussed. 
+
+An important take away is that rulers are incentivized to tax a maximum amount, since it secures them the job (as they can re-route the money to the *essentials*). 
+
+They are constrained by three major factors, namely
+
+(i) taxes on fruits of labor markedly reduces the incentive of the one taxed to work hard.
+
+(ii) parts of the burden of taxation lies upon the *essentials*, limiting the amount that autocrats can tax without impunity
+
+(iii) tax collection is a difficult task.
+
+The main argument here is that for small-coalition systems, the most likely constraint is (i), as it limits the ability to extract money from the *interchangables* to give to the *essentials*. This is because at some point, there are no fruits of labor anymore for a government to take.
+
+In contrast, for large-coalition systems, the most likely constraint is (i), as people do not like to be taxed into oblivion and can be readily convinced to vote for someone promising them to not tax them anymore. 
+
+Next to this, a few more points are mentioned:
+
+Obviously autocrats want their cash-flow to be as intransparent as possible, as it limits other players to pay supporters after a *coup*. Democrats are more interested in transparent systems, because this makes them less likely to be ousted by someone just promising, they will make it better. 
+
+Regarding the issue of resources, dM/A pretty much state that natural resources are terrible for people, as it makes them entirely expandable for securing state funding. In a system where the state's funding is dependent on labor, the level of extraction is limited by the diminishing production under high-taxation regimes. If a state has the authority over natural resources that can be extracted with minimal labor (such as oil), there is little incentive of a ruler to care about the welfare and production capacity of his inferiors, such that very resource-rich countries end up very poor. 
+
+Personal note: I think this theory (also discussed elsewhere --  maybe even better), has great explanatory power, specifically regarding the question why *first-comers*, i.e. Western Europe, United States did not go through the *resource curse*. If you imagine 19th century Western Europe, much coal and steel could be produced, but the actual creation of wealth happened in plants producing industrial goods with them. This is no different today, but the scales of the global economy have increased enormously, making the amount of money involved in the natural resources found in a small country in sub-saharan Africa significant for the whole economy. In the 19th century, there was no global economy and the real money was not ithen resources, such that the *resource curse* never happened. 
+
+Regarding debt, dM/A make the point, that it is much better understood as an indirect form of taxation of future *interchangables*, making it extremely attractive to autocrats. This is potentiated by the following calculation: In democracies, taking on more debt is limited by the amount the people are willing to pay back and later political costs of not being able to provide large-scale social programs, because the amount of money needed to service the debt becomes too high. In autocracies, this is not a likely constraint, as debt is largely paid by the many and the money borrowed is likely to end up in the pockets of the few. Thus, the most likely constraint is the market's willingness to lend money, usually determined by the amount of collateral a state can provide. This of course means, that it is very good policy for an autocrat to take on the maximum amount of debt, since it ties the hands of competitors: if you maxed out the amount of money the market is willing to lend you, no competitor can promise their followers that they will just take on more debt to pay for spoils.
+
+This is also a likely reason, why debt relief has not worked well so far: it doesn't remove the incentive of autocrats to take on more debt, leading to a quick bounce-back to usual levels of indebtedness -- the maximum. 
+
+Following from the point regarding debt and the point regarding resources, there is another interesting take:
+The reason why resource-rich countries are often more indebted than their neighbors is that resources can be used as collaterals for loans, leading to the paradox that more revenue is also associated with higher levels of debt. 
+
+### Key claims
+
+- Leaders have an incentive to tax the maximum amount
+- There are three key constraints, (i) taxation desincentivizes labour, (ii) taxation means a burden to supporters, (iii) tax collection is difficult
+- In democracies, the key constraint is the burden to the *essentials*
+- In autocracies, the key constraint is the desincentivization of labour
+- The reason why the *resource curse* exist is, because it removes key constraints placed onto autocrats extraction behaviour
+- Autocrats want to take on the maximum of debt, because they want to (a) extract and taking on debt is a form of taxation, and (b) it constrains potential ursurpers.
+- Debt relief does not work well if the incentives for autocrats to take on debt are left in place. 
+
+### Key examples
+
+(i) Mexico and the impact of democratization on taxes. There is an eerie correlation of Mexicos democratization efforts in the late 90, culminating in the loss of the Partido Revolucionario Institucional in 2000 and a steadily falling effective tax rate.
+
+(ii) Marketing Boards in Ghana and the impact of indirect taxation. In Ghana, a common form of indirect taxation happened to cacoa farmers through the "Cacoa Marketing Board", where the government would set prices for cacoa, forcing farmers to sell for this price, distribute the cacoa on the world market for a higher price and pocket the difference. In the 1980s this lead to a complete collapse of cacoa production in Ghana. 
+
+(iii) The caliphate and how to do missionary right. The Caliphate (as in the muslim empire established after the death of Mohammmad) had an interesting way to tax: the caliph would license the right to collect taxes in certain regions to tax collectors, who would have any incentive to extract the maximum amount possible from these regions. Since muslims were excempted (at least at first), the brutal strategies of the tax collectors lead many non-muslims to give up on their native religion and convert to islam. 
+
+(iv) Nigeria and the resource curse. When oil was found in Nigeria, the total debt levels went up, while poverty even increased. This is key evidence that resources, which can be extracted with minimal labour (a) increase debt level (see above) and (b) make it even worse for the population
+
+(v) The IMF/World Bank program for "Heavily indebted poor countries" was a complete disaster as almost all countries involved in the debt relieve, immediately started to take on new debt
+
+### Key passages 
+
+On taxing to stay in power
+>Ruling is about staying in power, not about good governance. To this end, leaders buy support by rewarding their essential backers relative to others. TAxation plays a dual role in generating this kind of loyalty. First it provides leaders with the resources to enrich their most essential supporters. Second, it reduces the welfare of those outside of the coalition
+
+On implicit tax rates
+> [...E]ven when nominal [tax] rates are low, autocracies have high implicit taxes -- if you have something valuable then it simply gets taken. 
+
