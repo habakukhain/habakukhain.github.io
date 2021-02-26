@@ -276,8 +276,125 @@ The reason why resource-rich countries are often more indebted than their neighb
 ### Key passages 
 
 On taxing to stay in power
->Ruling is about staying in power, not about good governance. To this end, leaders buy support by rewarding their essential backers relative to others. TAxation plays a dual role in generating this kind of loyalty. First it provides leaders with the resources to enrich their most essential supporters. Second, it reduces the welfare of those outside of the coalition
+>Ruling is about staying in power, not about good governance. To this end, leaders buy support by rewarding their essential backers relative to others. Taxation plays a dual role in generating this kind of loyalty. First it provides leaders with the resources to enrich their most essential supporters. Second, it reduces the welfare of those outside of the coalition
 
 On implicit tax rates
 > [...E]ven when nominal [tax] rates are low, autocracies have high implicit taxes -- if you have something valuable then it simply gets taken. 
+
+## Chapter 5: Getting and Spending
+
+A key question for any aspiring leader who has taken over a coalition is how to spend the money she has extracted. Importantly, the *essentials* have to be paid the right amount, but how to determine the correct value if money is spent on public goods?
+
+Two thoughts up front: 
+
+(i) There is no direct need for autocrats to keep the people happy. Even though not common thought, hungry people are unlikely to revolt. They also don't need to keep their population hungry either (see e.g. Singapur), but are far more likely to do so. 
+
+(ii) Some people believe the main mechanism to promote democracy is to ensure economic prosperity. dM/A argue against it (claiming that institutional incentives focused on the welfare of the people are more likely to make people rich than the other way around).
+
+An instance of different incentives in democracies and autocracies are bailouts provided to a struggling economy. In small-coalition regimes, bailouts are seldom accompagnied by institutional change (because why would it be?), while in democracies, there is a large incentive to prevent similar crises, as this is unpopular with the constituency. 
+
+For autocrats, the primary purpose of the *interchangable* is to provide them with a steady tax revenue. This means, they have to provide very basal public services in order to extract a maximum amount of wealth from them. This is seen, for instance, in the common provision of primary education in autocracies, but the lacking focus on tertiary education. 
+
+Regarding infrastructure: autocrats ought to build it. It allows economic activity and is necessary in order to extract money from the economy. They cannot build too much though, as specifically roads can pose political danger, as it allows quick organization and the formation of regional power centers. 
+
+
+
+
+
+### Key claims
+
+### Key examples
+
+(i) Examples on the order of democracy and wealth. China has achieved a moderate level of wealth in the complete absence of political reforms. Similar but diffent: Singapur, Taiwan and South Korea have built a great amount of wealth before liberalizing significantly. In many instances, economic help hinders -- rather than accelerates -- political liberalization. It seems like the map is more complicated here. 
+
+(ii) Cuba on infant mortality. Confusing example on infant mortality in Cuba. Cuba has the lowest infant mortality in Latin America and has had so for a while -- since Batista times. The relative improvement in Cuba has not been as fast as improvements in e.g. Western Europe. dM/A use this as a example to claim that large coaltions are the most important determinant fo rimproving infant mortality, but not wealth. 
+
+(iii) Honduras and Equatorial Guinea on drinking water quality. Honduras is poor, Equatorial Guinea is comparatively much richer (4x). They are environmentally and historically similar, yet Honduras has much more access to clean drinking water. Supposedly, this is because Honduras is significantly more democratic than Equatorial Guinea.
+
+(iv) Road straightness and infrastructure planning. Apparently, roads from the capital to the main airport are much more straight in autocracies than in democracies. dM/A explain this (a) by the compelling prospect of a dictator having to flee the country fast and (b) high eminent domain costs in democracies. This is embedded in a greater argument on how autocrats need to build infrastructure in order to extract money and sustain economic activiy, but also ought to limit infrastructure construction as to not allow new regional power centers to form. 
+
+(v) Mobuto Sese Seko replaced regional electricity generation close to Zaire's essential copper mines with hydroelectric power from a damn more than 1000 miles away, as it allowed him to completely control the production of copper and thus potentially deny this resource to any opponent.
+
+
+### Key passages 
+
+On bailouts:
+> Just like debt forgiveness, a bailout in the face of economic stress for autocrats is a way to solve an impending political crisis. When their economy becomes too feeble to provide sufficient money to buy political loyalty, autocrats face being overthrown either by a rival or a revolution. This, in a nutshell, is the story of the politico-economical crises faced by places like Tunesia and Egypt in 2011. A bailout, whether generated from within or through outside loans or aid can buy off opposition and thwart the threat to the leader's hold on power. Therefore, during an economic crisis autocrats shop around for bailout money from others to save themselves in the name of relieving their country's financial woes. 
+>
+>For large coalition leaders bailouts are a curse, or at least a necessary evil. A poorly performing economy is likely to be understood by voters as a policy failure by the leadership, resulting in them being thrown out by the voters at the first opportunity [...]. So the need for an economic bailout strongly signals the voters to find new leaders with new policy ideads.
+
+On roads:
+>[...] Everything the workers make has to get out to the market so that the leader can sell the product of the worker's labor for money. That means there is a need for roads to transport what's been made to markets where people have money. 
+>
+>Nevertheless, there is still a balance when it comes to infrastructure. Since roads run in two directions, one must be careful not to build too many roads or, especially, roads to the wrong places. Roads are very costly to build and it is easy to hide their true costs. This makes them a good source of graft, which in turn makes constructing them attractive. But having a country *too well connected* can lead to new regional power centers -- political, economic, or otherwise -- that undermine the autocrat. And if things ever heat up sufficiently to encourage rebellion, the very roads that autocrats build can come back to haunt them. Shoddy infrastructure is often an intentionally designed feature of many countries, not a misfortune suffered unwillingly. 
+
+## Chapter 6: Absolute Corruption empowers absolutely
+
+Here, dM/A give a short account of their model of corruption. It is curious that corruption is both so pernicious and widespread at the same time and efforts to get rid of it seem to have a terrible track record. 
+
+Their model goes something like this: corruption is an extremely nice way to accomplish two goals at once: Keep your coalition happy by providing them with private goods and control the coalition by having a good point of attack, once their loyalty is not evident anymore. 
+
+A further point is made on corruption in law enforcement. Sometimes leaders need to remove opposition to them with rather brutal means. Having corrupt law enforcement is a rather nice way to ensure, that law enforcement knows that they are to be rewarded for expected behaviour and that they can be punished effectively, once they decide that they don't want to play anymore. 
+### Key claims
+
+- Corruption increases as coalition size decreases
+
+- Corruption is mostly by design and benefits the rulers most of all
+
+- Getting rid of corruption can be dangerous to a ruler, as it deprives them of efficient ways to pay the coalition
+
+- Getting rid of corruption usually means changing incentives of everyone involved, i.e. changing coalition size. 
+
+### Key examples
+
+(i) Genghis Khan and killing few people:
+Genghis Khan would kill every single person in a town that wouldn't submit and would the surrounding towns know. As such, he didn't have to kill so many townspeople
+
+(ii) Iran and making corruption legal. Apparently, Iran has a special caste of people, called the Bonyads, who are exempt from taxation and corruption charges (!) who manage the wealth of the Ayatollahs and are thought to control up to a third of Iran's annual income. 
+
+(iii) Wall street and paying for accomplishments. In 2008 Wall street firms payed out 40% more boni than in 2007, while at the same time asking for billions in bail-out money from states. I guess, performance pays. 
+
+(iv) On Caesar and paying the coalition. dM/A put foreward an interpretation of ceasars assassination involving mostly his expensive public works projects, which were payed by restricting tax farming and other ways the rich roman citizens would make themselves even richer.
+
+(v) Coalition size and securities fraud.
+Large coalition companies engage in securities fraud more often, once in dire financial situation, than small coalition companies. This might be due to the increased risk leaders of large coalition companies face when they present bad performance data. 
+
+### Key passages
+
+On benevolent inclinations:
+> [...] Indeed, it could very well be the case that there are many candidates for high office who persue power with the intention of being benevolent leaders. The problem is that doing what is best for the people can be awfully bad for staying in power
+
+On benevolent inclinations coalition loyalty:
+> Successful leaders must place the urge to do good deeds at a distant third behind their own political survival and their degree of discretionary control. Private goods are the benefits that most help the rulers keep coalition loyalty. It is only the private gains that separate the essentials from the masses. 
+
+On fighting corruption:
+>Legal approaches to eliminating corruption won't ever work, and can often make the situation worse. The best way to deal with corruption is to change the underlying incentives. As coalition size increases, corruption becomes a thing of the past. 
+
+## Chapter 7: Foreign Aid
+
+
+
+### Key claims
+
+Foreign aid...
+
+Interesting mechanism: Because it is more expensive to buy policy in richer countries than in poorer, rich autocracies are acutally likely to receive *more* foreign aid than poor autocracies. 
+
+
+### Key examples
+
+(i) Ethiopia and well-intentioned aid concerts. In the 1980s, Ethiopia experienced a drought and perniciously, the government led by Mengistu Haile Mariam additionally forced collectivization onto the farmers in the hardest-hit regions. This was beneficial to the government, as it weakened insurgents in these areas as well as killing 0.5-1 million peasants. Western pop stars then organized a "Live Aid" concert, albeit collecting the money mostly for Mariams treasury, as most of it ended up being controlled by the government instead of directly helping people. 
+
+(ii) US and how to fight the Taliban. Between 2001 and 2008, the US paid the Pakistani government approximately 6.6 billion dollar to fight the Taliban, but only a small fraction (500 million dollar) ever reached the army, while the rest lined the pockets of the Pakistani *essential* class.
+
+(iii) US, Turkey and where to buy support. Apparently the US wanted to start the Iraq invasion in 2003 from Turkey, offering some 25 billion dollars or so in order to install a base there. Turkey declined, being relatively democratic and anxious that allowing the US to invade a fellow muslim country, would be unpopular with the constituents. In the end, the US launched the invasion from Saudi Arabia and Kuwait, both considerably smaller and also less democratic, thus willing to allow the invasion bases for a relatively low amount of money.
+
+(iv) Pakistan and how to extract more aid. This example is about the limitations of the donors. When Pakistan became a relatively safe fall-back option for the Taliban after the 2001 invasion, the US stepped up their aid game, particularly by lifting restrictions on aid, put in place after a nuclear test by the Pakistani military. This resulted in absurd levels of foreign aid flowing from the US to Pakistan in order to combat the Taliban. This is especially interesting, as public sentiment in Pakistan is mostly anti-american and much of the foreign aid provided by the US never ended up fighting the Taliban. When the US tried to reduce the aid or tried to put restrictions on how the Pakistani government could spend the aid, the Pakistani military just stopped fighting the Taliban altogether, forcing the US to give more money with less restrictions, in order to keep the Pakistani military fighting the Taliban at all. 
+
+(v) Japan and convincing land-locked countries that whaling is good. Japan tries to lobby for whaling by giving foreign aid to poor countries. This yields an absurd situation in which multiple land-locked countries, like Laos, Mongolia and Mali have joined the International Whaling Commission, which regularly vote along Japan's interests. 
+
+### Key passages
+
+On the strategic logic of foreign aid:
+>[...] Aid is decidedly no *not* given to alleviate poverty or misery; it is given to make the constituents in donor states better off. Aid's failure to eliminate poverty has not been a result of donors giving too little money to help the world's poor. Rather, the right amount of aid is given to achieve its purpose -- improving the welfare of the donor's constituents so that they want to reelect their incumbent leadership. Likewise, aid is not given to the wrong people, that is, governments that steal it rather than to local entrepreneurs or charities that will use it wisely. Yes, it is true that a lot of aid is given to corrupt governments but that is by design, not by accident or out of ignorance. Rather, aid is given to thieving governments exactly because they will sell out their people for their own political security.
 
